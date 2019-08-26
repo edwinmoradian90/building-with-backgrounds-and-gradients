@@ -1,0 +1,100 @@
+/* CSS RESET */
+
+body,
+html,
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    width: 100%;
+    height: 40px;
+}
+
+nav>ul {
+    list-style-type: none;
+}
+
+header {
+    width: 100%;
+    height: 30vh;
+    background-color: salmon;
+}
+
+.container {
+    width: 72vw;
+    height: 100vh;
+}
+
+.background {
+    width: 100%;
+    height: 70vh;
+}
+
+.navigation-container {
+    width: 100%;
+    height: 20vh;
+}
+
+.links {}
+
+.items {}
+
+.items>div {
+    height: 20vh;
+    width: 25%;
+    display: flex;
+    background-color: yellow;
+    border: 1px solid white;
+}
+
+.flex {
+    display: flex;
+}
+
+.fdr {
+    flex-direction: row;
+}
+
+.fdc {
+    flex-direction: column;
+}
+
+.jcc {
+    justify-content: center;
+}
+
+.acc {
+    align-content: center;
+}
+
+.aic {
+    align-items: center;
+}
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
