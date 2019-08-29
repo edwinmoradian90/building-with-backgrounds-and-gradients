@@ -9,7 +9,7 @@ The project was completed using html and css
 
 [Assignment link](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients)
 
-[Live Version](https://raw.githack.com/edwinmoradian90/building-with-backgrounds-and-gradients/features/index.html)
+[Live Version](https://raw.githack.com/edwinmoradian90/building-with-backgrounds-and-gradients/master/index.html)
 
 Authors
 @Ed
