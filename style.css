@@ -129,7 +129,7 @@ footer p a:hover {
 }
 
 .container {
-    width: 75vw;
+    width: 1440px;
     height: 100vh;
 }
 
@@ -141,6 +141,10 @@ footer p a:hover {
     background-repeat: no-repeat;
     background-position: bottom;
 
+}
+
+.links {
+    width: 100%;
 }
 
 .navigation-container {
